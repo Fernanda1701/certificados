@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/Fernanda1701/mycertificates">📜 Meus Certificados</a>
+    <a href="https://github.com/Fernanda1701/certificados">📜 Meus Certificados</a>
 </h1>
 <p align="center">Compartilhando meu desenvolvimento educacional 📚</p>
 
